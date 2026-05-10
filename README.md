@@ -52,7 +52,7 @@ vagrant up
 | 2. Scan & Énumération | Kerberoasting / AS-REP Roasting / Delegation | ✅ Fait |
 | 3. Analyse vulnérabilités | Delegation abuse exploits | 🔧 En cours |
 | 4. Exploitation | Pass-the-Hash / Pass-the-Ticket | 🔧 En cours |
-| 5. Post-Exploitation | NTDS exfiltration (DCSync) | ✅ Fait |
+| 5. Post-Exploitation | NTDS exfiltration (DCSync) | ⏳ À faire |
 | 6. Rapport | Tiered Admin Model | ⏳ À faire |
 
 ---
