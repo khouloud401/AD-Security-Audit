@@ -89,9 +89,10 @@ MATCH p=shortestPath((n:User)-[*1 ..]->
 | BOB@MINI.LAB | ❌ |
 | DAVE@MINI.LAB | ❌ |
 | GUEST@MINI.LAB | ❌ |
-```
--capture 
-```
+
+![Users List 1](assets/bloodhound-users-1.png)
+
+![Users List 2](assets/bloodhound-users-2.png)
 
 
 ### Chemins d'attaque identifiés
@@ -106,9 +107,9 @@ BloodHound a révélé les relations suivantes vers **DOMAIN ADMINS@MINI.LAB** :
 > ⚠️ **CAROL** possède le droit `WriteDacl` sur Domain Admins — 
 > vecteur d'escalade de privilèges critique.
 
-```
-capture 
-```
+
+![BloodHound Graphe](assets/bloodhound-graphe.png)
+
 
 
 ---
