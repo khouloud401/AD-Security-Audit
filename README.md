@@ -16,12 +16,10 @@ Objectif : Devenir Domain Admin via des techniques d'attaque réelles sur un env
 🏗️ Environnement
 Lab utilisé : GOAD Mini Lab — Orange Cyberdefense  
 🔗 https://github.com/Orange-Cyberdefense/GOAD
-```
 
-- chemin d'architacture 
+![Architecture](assets/arch.png)
 
 
-```
 Domaine AD : `mini.lab`  
 Chemin du lab :
 ```bash
